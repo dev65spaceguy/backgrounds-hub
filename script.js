@@ -1,0 +1,18 @@
+const backgrounds = [
+  "backgrounds/helix.png",
+  "backgrounds/frosty.png",
+  "backgrounds/blue forest.png",
+  "backgrounds/blue forest modified.png",
+  "backgrounds/car.png",
+  "backgrounds/chess.png",
+  "backgrounds/nebula.png",
+  "backgrounds/lc.png",
+  "backgrounds/spaceshuttle.png",
+  "backgrounds/minecraft.jpg",
+  "backgrounds/coding.png",
+ "backgrounds/solar-drift-8k.png",
+ "backgrounds/bloom.png",
+ "backgrounds/0g.png",
+ "backgrounds/solarclouds.png",
+ "backgrounds/minecraftlegends.png",
+];
